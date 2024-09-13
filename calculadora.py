@@ -21,3 +21,5 @@ else:
         print(número1 / número2)
     else:
         print('Operação invalida. Não é possivel dividir por 0')
+
+    #qualquercoisa:)
